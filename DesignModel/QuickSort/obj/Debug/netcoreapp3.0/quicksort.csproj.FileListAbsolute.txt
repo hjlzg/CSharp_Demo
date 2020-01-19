@@ -1,0 +1,11 @@
+C:\Users\huangjinlong\Desktop\VsCodedemo\DesignModel\quicksort\bin\Debug\netcoreapp3.0\quicksort.exe
+C:\Users\huangjinlong\Desktop\VsCodedemo\DesignModel\quicksort\bin\Debug\netcoreapp3.0\quicksort.deps.json
+C:\Users\huangjinlong\Desktop\VsCodedemo\DesignModel\quicksort\bin\Debug\netcoreapp3.0\quicksort.runtimeconfig.json
+C:\Users\huangjinlong\Desktop\VsCodedemo\DesignModel\quicksort\bin\Debug\netcoreapp3.0\quicksort.runtimeconfig.dev.json
+C:\Users\huangjinlong\Desktop\VsCodedemo\DesignModel\quicksort\bin\Debug\netcoreapp3.0\quicksort.dll
+C:\Users\huangjinlong\Desktop\VsCodedemo\DesignModel\quicksort\bin\Debug\netcoreapp3.0\quicksort.pdb
+C:\Users\huangjinlong\Desktop\VsCodedemo\DesignModel\quicksort\obj\Debug\netcoreapp3.0\quicksort.csprojAssemblyReference.cache
+C:\Users\huangjinlong\Desktop\VsCodedemo\DesignModel\quicksort\obj\Debug\netcoreapp3.0\quicksort.AssemblyInfoInputs.cache
+C:\Users\huangjinlong\Desktop\VsCodedemo\DesignModel\quicksort\obj\Debug\netcoreapp3.0\quicksort.AssemblyInfo.cs
+C:\Users\huangjinlong\Desktop\VsCodedemo\DesignModel\quicksort\obj\Debug\netcoreapp3.0\quicksort.dll
+C:\Users\huangjinlong\Desktop\VsCodedemo\DesignModel\quicksort\obj\Debug\netcoreapp3.0\quicksort.pdb

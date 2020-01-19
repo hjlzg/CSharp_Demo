@@ -1,0 +1,12 @@
+﻿{
+  "profiles": {
+    "aspnetcoregrpc": {
+      "commandName": "Project",
+      "launchBrowser": false,
+      "applicationUrl": "https://localhost:5006",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

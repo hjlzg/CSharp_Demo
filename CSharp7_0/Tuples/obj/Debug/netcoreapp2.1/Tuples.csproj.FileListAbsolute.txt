@@ -1,0 +1,11 @@
+C:\Users\huangjinlong\Desktop\demo\CSharp7_0\Tuples\bin\Debug\netcoreapp2.1\Tuples.deps.json
+C:\Users\huangjinlong\Desktop\demo\CSharp7_0\Tuples\bin\Debug\netcoreapp2.1\Tuples.runtimeconfig.json
+C:\Users\huangjinlong\Desktop\demo\CSharp7_0\Tuples\bin\Debug\netcoreapp2.1\Tuples.runtimeconfig.dev.json
+C:\Users\huangjinlong\Desktop\demo\CSharp7_0\Tuples\bin\Debug\netcoreapp2.1\Tuples.dll
+C:\Users\huangjinlong\Desktop\demo\CSharp7_0\Tuples\bin\Debug\netcoreapp2.1\Tuples.pdb
+C:\Users\huangjinlong\Desktop\demo\CSharp7_0\Tuples\obj\Debug\netcoreapp2.1\Tuples.csprojAssemblyReference.cache
+C:\Users\huangjinlong\Desktop\demo\CSharp7_0\Tuples\obj\Debug\netcoreapp2.1\Tuples.csproj.CoreCompileInputs.cache
+C:\Users\huangjinlong\Desktop\demo\CSharp7_0\Tuples\obj\Debug\netcoreapp2.1\Tuples.AssemblyInfoInputs.cache
+C:\Users\huangjinlong\Desktop\demo\CSharp7_0\Tuples\obj\Debug\netcoreapp2.1\Tuples.AssemblyInfo.cs
+C:\Users\huangjinlong\Desktop\demo\CSharp7_0\Tuples\obj\Debug\netcoreapp2.1\Tuples.dll
+C:\Users\huangjinlong\Desktop\demo\CSharp7_0\Tuples\obj\Debug\netcoreapp2.1\Tuples.pdb

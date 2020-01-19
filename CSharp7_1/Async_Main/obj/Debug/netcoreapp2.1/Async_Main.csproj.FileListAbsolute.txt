@@ -1,0 +1,11 @@
+C:\Users\huangjinlong\Desktop\demo\CSharp7_1\Async_Main\bin\Debug\netcoreapp2.1\Async_Main.deps.json
+C:\Users\huangjinlong\Desktop\demo\CSharp7_1\Async_Main\bin\Debug\netcoreapp2.1\Async_Main.runtimeconfig.json
+C:\Users\huangjinlong\Desktop\demo\CSharp7_1\Async_Main\bin\Debug\netcoreapp2.1\Async_Main.runtimeconfig.dev.json
+C:\Users\huangjinlong\Desktop\demo\CSharp7_1\Async_Main\bin\Debug\netcoreapp2.1\Async_Main.dll
+C:\Users\huangjinlong\Desktop\demo\CSharp7_1\Async_Main\bin\Debug\netcoreapp2.1\Async_Main.pdb
+C:\Users\huangjinlong\Desktop\demo\CSharp7_1\Async_Main\obj\Debug\netcoreapp2.1\Async_Main.csprojAssemblyReference.cache
+C:\Users\huangjinlong\Desktop\demo\CSharp7_1\Async_Main\obj\Debug\netcoreapp2.1\Async_Main.csproj.CoreCompileInputs.cache
+C:\Users\huangjinlong\Desktop\demo\CSharp7_1\Async_Main\obj\Debug\netcoreapp2.1\Async_Main.AssemblyInfoInputs.cache
+C:\Users\huangjinlong\Desktop\demo\CSharp7_1\Async_Main\obj\Debug\netcoreapp2.1\Async_Main.AssemblyInfo.cs
+C:\Users\huangjinlong\Desktop\demo\CSharp7_1\Async_Main\obj\Debug\netcoreapp2.1\Async_Main.dll
+C:\Users\huangjinlong\Desktop\demo\CSharp7_1\Async_Main\obj\Debug\netcoreapp2.1\Async_Main.pdb

@@ -1,0 +1,11 @@
+c:\Users\huangjinlong\Desktop\VsCodedemo\TestSort\bin\Debug\netcoreapp3.0\TestSort.exe
+C:\Users\huangjinlong\Desktop\VsCodedemo\TestSort\bin\Debug\netcoreapp3.0\TestSort.deps.json
+C:\Users\huangjinlong\Desktop\VsCodedemo\TestSort\bin\Debug\netcoreapp3.0\TestSort.runtimeconfig.json
+C:\Users\huangjinlong\Desktop\VsCodedemo\TestSort\bin\Debug\netcoreapp3.0\TestSort.runtimeconfig.dev.json
+c:\Users\huangjinlong\Desktop\VsCodedemo\TestSort\bin\Debug\netcoreapp3.0\TestSort.dll
+c:\Users\huangjinlong\Desktop\VsCodedemo\TestSort\bin\Debug\netcoreapp3.0\TestSort.pdb
+c:\Users\huangjinlong\Desktop\VsCodedemo\TestSort\obj\Debug\netcoreapp3.0\TestSort.csprojAssemblyReference.cache
+c:\Users\huangjinlong\Desktop\VsCodedemo\TestSort\obj\Debug\netcoreapp3.0\TestSort.AssemblyInfoInputs.cache
+c:\Users\huangjinlong\Desktop\VsCodedemo\TestSort\obj\Debug\netcoreapp3.0\TestSort.AssemblyInfo.cs
+c:\Users\huangjinlong\Desktop\VsCodedemo\TestSort\obj\Debug\netcoreapp3.0\TestSort.dll
+c:\Users\huangjinlong\Desktop\VsCodedemo\TestSort\obj\Debug\netcoreapp3.0\TestSort.pdb

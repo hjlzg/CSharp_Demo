@@ -1,0 +1,11 @@
+C:\Users\huangjinlong\Desktop\demo\CSharp7_2\Span\obj\Debug\netcoreapp2.1\Span.csprojAssemblyReference.cache
+C:\Users\huangjinlong\Desktop\demo\CSharp7_2\Span\obj\Debug\netcoreapp2.1\Span.csproj.CoreCompileInputs.cache
+C:\Users\huangjinlong\Desktop\demo\CSharp7_2\Span\obj\Debug\netcoreapp2.1\Span.AssemblyInfoInputs.cache
+C:\Users\huangjinlong\Desktop\demo\CSharp7_2\Span\obj\Debug\netcoreapp2.1\Span.AssemblyInfo.cs
+C:\Users\huangjinlong\Desktop\demo\CSharp7_2\Span\bin\Debug\netcoreapp2.1\Span.deps.json
+C:\Users\huangjinlong\Desktop\demo\CSharp7_2\Span\bin\Debug\netcoreapp2.1\Span.runtimeconfig.json
+C:\Users\huangjinlong\Desktop\demo\CSharp7_2\Span\bin\Debug\netcoreapp2.1\Span.runtimeconfig.dev.json
+C:\Users\huangjinlong\Desktop\demo\CSharp7_2\Span\bin\Debug\netcoreapp2.1\Span.dll
+C:\Users\huangjinlong\Desktop\demo\CSharp7_2\Span\bin\Debug\netcoreapp2.1\Span.pdb
+C:\Users\huangjinlong\Desktop\demo\CSharp7_2\Span\obj\Debug\netcoreapp2.1\Span.dll
+C:\Users\huangjinlong\Desktop\demo\CSharp7_2\Span\obj\Debug\netcoreapp2.1\Span.pdb

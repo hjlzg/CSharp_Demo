@@ -1,0 +1,11 @@
+C:\Users\huangjinlong\Desktop\demo\CSharp7_0\Pattern_Matching\bin\Debug\netcoreapp2.1\Pattern_Matching.deps.json
+C:\Users\huangjinlong\Desktop\demo\CSharp7_0\Pattern_Matching\bin\Debug\netcoreapp2.1\Pattern_Matching.runtimeconfig.json
+C:\Users\huangjinlong\Desktop\demo\CSharp7_0\Pattern_Matching\bin\Debug\netcoreapp2.1\Pattern_Matching.runtimeconfig.dev.json
+C:\Users\huangjinlong\Desktop\demo\CSharp7_0\Pattern_Matching\bin\Debug\netcoreapp2.1\Pattern_Matching.dll
+C:\Users\huangjinlong\Desktop\demo\CSharp7_0\Pattern_Matching\bin\Debug\netcoreapp2.1\Pattern_Matching.pdb
+C:\Users\huangjinlong\Desktop\demo\CSharp7_0\Pattern_Matching\obj\Debug\netcoreapp2.1\Pattern_Matching.csprojAssemblyReference.cache
+C:\Users\huangjinlong\Desktop\demo\CSharp7_0\Pattern_Matching\obj\Debug\netcoreapp2.1\Pattern_Matching.csproj.CoreCompileInputs.cache
+C:\Users\huangjinlong\Desktop\demo\CSharp7_0\Pattern_Matching\obj\Debug\netcoreapp2.1\Pattern_Matching.AssemblyInfoInputs.cache
+C:\Users\huangjinlong\Desktop\demo\CSharp7_0\Pattern_Matching\obj\Debug\netcoreapp2.1\Pattern_Matching.AssemblyInfo.cs
+C:\Users\huangjinlong\Desktop\demo\CSharp7_0\Pattern_Matching\obj\Debug\netcoreapp2.1\Pattern_Matching.dll
+C:\Users\huangjinlong\Desktop\demo\CSharp7_0\Pattern_Matching\obj\Debug\netcoreapp2.1\Pattern_Matching.pdb
