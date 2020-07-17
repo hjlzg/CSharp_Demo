@@ -1,0 +1,15 @@
+E:\GitHub\CSharpTools\RestartServer\bin\Debug\netcoreapp3.1\RestartServer.exe
+E:\GitHub\CSharpTools\RestartServer\obj\Debug\netcoreapp3.1\RestartServer.AssemblyInfoInputs.cache
+E:\GitHub\CSharpTools\RestartServer\obj\Debug\netcoreapp3.1\RestartServer.AssemblyInfo.cs
+E:\GitHub\CSharpTools\RestartServer\bin\Debug\netcoreapp3.1\RestartServer.deps.json
+E:\GitHub\CSharpTools\RestartServer\bin\Debug\netcoreapp3.1\RestartServer.runtimeconfig.json
+E:\GitHub\CSharpTools\RestartServer\bin\Debug\netcoreapp3.1\RestartServer.runtimeconfig.dev.json
+E:\GitHub\CSharpTools\RestartServer\bin\Debug\netcoreapp3.1\RestartServer.dll
+E:\GitHub\CSharpTools\RestartServer\bin\Debug\netcoreapp3.1\RestartServer.pdb
+E:\GitHub\CSharpTools\RestartServer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\GitHub\CSharpTools\RestartServer\obj\Debug\netcoreapp3.1\RestartServer.csproj.CoreCompileInputs.cache
+E:\GitHub\CSharpTools\RestartServer\obj\Debug\netcoreapp3.1\RestartServer.csproj.CopyComplete
+E:\GitHub\CSharpTools\RestartServer\obj\Debug\netcoreapp3.1\RestartServer.dll
+E:\GitHub\CSharpTools\RestartServer\obj\Debug\netcoreapp3.1\RestartServer.pdb
+E:\GitHub\CSharpTools\RestartServer\obj\Debug\netcoreapp3.1\RestartServer.genruntimeconfig.cache
+E:\GitHub\CSharpTools\RestartServer\bin\Debug\netcoreapp3.1\appConfig.json
